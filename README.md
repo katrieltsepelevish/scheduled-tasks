@@ -34,7 +34,7 @@ $ npm start
 
 ## Configuring
 
-Configure the `server/.env` file before starting the application, Don't forget to _fill in_ all the blank fields:
+Configure the `server/.env` file before starting the application, Don't forget to **fill in** all the blank fields:
 
 ```
 NODE_ENV=development
@@ -55,7 +55,7 @@ OAUTH_ACCESS_TOKEN=
 MONGODB_URL=mongodb://localhost:27017/scheduled-tasks
 ```
 
-Same with the `client/.env` configuration file, Don't forget to _fill in_ all the blank fields:
+Same with the `client/.env` configuration file, Don't forget to **fill in** all the blank fields:
 
 ```
 REACT_APP_PUBLIC_ENVIRONMENT=development
