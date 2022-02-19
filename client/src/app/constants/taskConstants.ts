@@ -1,0 +1,4 @@
+export const TASKS_SET_LIST = 'TASKS_SET_LIST';
+export const TASKS_DELETE_TASK = 'TASKS_DELETE_TASK';
+export const TASKS_MARK_TASK = 'TASKS_MARK_TASK';
+export const TASKS_ERROR = 'TASKS_ERROR';

@@ -1,0 +1,86 @@
+[13-02-2022 16:02:55] [error] - [EMAIL] Error
+[13-02-2022 16:02:55] [error] - [WORKER] Job 4 failed. Error: Task ID: 62090d0033655f7e8b414903 does not exist
+[13-02-2022 16:09:09] [error] - [EMAIL] Error
+[13-02-2022 16:09:09] [error] - [WORKER] Job 4 failed. Error: Task ID: 62090d0033655f7e8b414903 does not exist
+[13-02-2022 16:15:48] [error] - [EMAIL] Error
+[13-02-2022 16:15:48] [error] - [WORKER] Job 4 failed. Error: Task ID: 62090d0033655f7e8b414903 does not exist
+[13-02-2022 16:16:29] [info] - Task title: Dessert successfully created.
+[13-02-2022 16:16:39] [error] - [EMAIL] Error
+[13-02-2022 16:16:39] [error] - [WORKER] Job 5 failed. Error: Task ID: 620912bd34720630c8493413 does not exist
+[13-02-2022 16:18:10] [error] - [EMAIL] Error
+[13-02-2022 16:18:10] [error] - [WORKER] Job 5 failed. Error: Task ID: 620912bd34720630c8493413 does not exist
+[13-02-2022 16:19:32] [info] - [Task] sent a reminder to Task ID: 620912bd34720630c8493413 to user Email:katriel1230@gmail.com
+[13-02-2022 16:19:32] [info] - [WORKER] Completed job 5 successfully
+[13-02-2022 16:20:44] [info] - Task title: Launch successfully created.
+[13-02-2022 16:20:50] [info] - [Task] sent a reminder to Task ID: 620913bc34f9201ce9e8c93f to user Email:katriel1230@gmail.com
+[13-02-2022 16:20:50] [info] - [WORKER] Completed job 6 successfully
+[13-02-2022 16:24:01] [info] - Task title: Desserts successfully created.
+[13-02-2022 16:24:16] [error] - [WORKER] Job 7 failed. Error: Task ID: 62091481c16eb5d3bdbe3a28 does not exist
+[13-02-2022 16:27:49] [error] - [WORKER] Job 7 failed. Error: Task ID: 62091481c16eb5d3bdbe3a28 does not exist
+[13-02-2022 16:29:05] [error] - [EMAIL] Error
+[13-02-2022 16:29:05] [error] - [WORKER] Job 7 failed. Error: Task ID: 62091481c16eb5d3bdbe3a28 does not exist
+[13-02-2022 16:29:25] [info] - [Task] sent a reminder to Task ID: 62091481c16eb5d3bdbe3a28 to user Email:katriel1230@gmail.com
+[13-02-2022 16:29:25] [info] - [WORKER] Completed job 7 successfully
+[13-02-2022 16:34:05] [info] - Task title: Text successfully created.
+[13-02-2022 16:34:17] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError l7sm6976284wrs.46 - gsmtp
+[13-02-2022 16:34:17] [error] - [WORKER] Job 8 failed. Error: Task ID: 620916ddb74ef39380cd0091 does not exist
+[13-02-2022 16:35:30] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError o20sm7880796wmq.21 - gsmtp
+[13-02-2022 16:35:30] [error] - [WORKER] Job 8 failed. Error: Task ID: 620916ddb74ef39380cd0091 does not exist
+[13-02-2022 16:44:13] [error] - [WORKER] Job 8 failed. Error: Task ID: 620916ddb74ef39380cd0091 does not exist
+[13-02-2022 16:44:53] [error] - [WORKER] Job 8 failed. Error: Task ID: 620916ddb74ef39380cd0091 does not exist
+[13-02-2022 16:45:14] [info] - [Task] sent a reminder to Task ID: 620916ddb74ef39380cd0091 to user Email:katriel1230@gmail.com
+[13-02-2022 16:45:14] [info] - [WORKER] Completed job 8 successfully
+[13-02-2022 16:52:17] [info] - Task title: Desserts successfully created.
+[13-02-2022 16:52:26] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 16:54:09] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 16:55:26] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:11:36] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:12:46] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError z7sm5683064wml.40 - gsmtp
+[13-02-2022 17:12:46] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:15:38] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError o14sm8986062wmr.3 - gsmtp
+[13-02-2022 17:15:38] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:19:58] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError c8sm11029035wmq.39 - gsmtp
+[13-02-2022 17:19:58] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:22:56] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError a10sm2684833wrt.59 - gsmtp
+[13-02-2022 17:22:56] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:37:27] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError j6sm14902748wrt.70 - gsmtp
+[13-02-2022 17:37:27] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:43:47] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError h4sm32301984wre.0 - gsmtp
+[13-02-2022 17:43:47] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:44:17] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError d12sm18437413wrx.47 - gsmtp
+[13-02-2022 17:44:17] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:47:58] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError bk5sm14779309wrb.10 - gsmtp
+[13-02-2022 17:47:58] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:59:12] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError u7sm18561393wrq.112 - gsmtp
+[13-02-2022 17:59:12] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 17:59:48] [error] - [EMAIL] Error unauthorized_client
+[13-02-2022 17:59:49] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 18:16:36] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError v5sm6675817wrr.7 - gsmtp
+[13-02-2022 18:16:36] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 18:25:32] [error] - [EMAIL] Error Mail command failed: 530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError p17sm9058465wme.25 - gsmtp
+[13-02-2022 18:25:32] [error] - [WORKER] Job 9 failed. Error: Task ID: 62091b2165bc9312a8d4f710 does not exist
+[13-02-2022 18:27:31] [info] - [Task] sent a reminder to Task ID: 62091b2165bc9312a8d4f710 to user Email:katriel1230@gmail.com
+[13-02-2022 18:27:31] [info] - [WORKER] Completed job 9 successfully
+[19-02-2022 13:17:40] [info] - Task title: Salads successfully created.
+[19-02-2022 13:24:36] [info] - Task title: Salaties successfully created.
+[19-02-2022 13:32:46] [info] - Task 6210d55ea1d5f3bad646690f successfully created.
+[19-02-2022 13:32:46] [info] - [Task] Job f2fb6542-6c8f-4873-91af-28184ef870ad added to reminder queue.
+[19-02-2022 13:50:03] [info] - [Task] sent a reminder to Task ID: 6210d55ea1d5f3bad646690f to user Email:katriel1230@gmail.com
+[19-02-2022 13:50:03] [info] - [WORKER] Completed job f2fb6542-6c8f-4873-91af-28184ef870ad successfully
+[19-02-2022 13:57:32] [info] - User username: katrieltsepelevish successfully connected.
+[19-02-2022 13:59:51] [info] - Task 6210dbb7d57f8d52842fd461 successfully created.
+[19-02-2022 13:59:51] [info] - [Task] Job 6a255f05-ec71-42de-8657-6dc5b7be6eae added to reminder queue.
+[19-02-2022 14:01:13] [info] - [Task] Job 6a255f05-ec71-42de-8657-6dc5b7be6eae removed from reminder queue.
